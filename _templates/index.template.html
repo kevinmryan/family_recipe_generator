@@ -10,10 +10,9 @@
             <div class="name">
                 <nav>
                     <a href="index.html"><img class="logo" src="assets/logo.svg"></a>
-                    <i>⟩</i>
                 </nav>
                 $if(index_title)$
-                    <h1><span>$index_title$</span></h1>
+                    <h1 style="display:block"><span style="display: block; text-align: center;">$index_title$</span></h1>
                 $else$
                     <div>&nbsp;</div>  <!-- fix for weird line-height behavior when there's no block element in the inline-block element .name in safari -->
                 $endif$
