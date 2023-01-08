@@ -33,9 +33,11 @@
                 $elseif(source)$
                     <li><a href="$source$"><img src="assets/tabler-icons/tabler-icon-link.svg"> $strings.source_label$</a></li>
                 $endif$
-                $if(vegetarian)$$else$
-                    $if(vegan)$$else$
-                        <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</li>
+                $if(nomeat)$$else$
+                    $if(vegetarian)$$else$
+                        $if(vegan)$$else$
+                            <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</li>
+                        $endif$
                     $endif$
                 $endif$
                 $if(vegan)$
