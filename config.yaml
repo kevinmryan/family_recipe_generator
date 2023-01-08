@@ -15,6 +15,7 @@ strings:
   uncategorized_label: Uncategorized
   source_label: Source
   vegan_label: Vegan
+  vegetarian_label: Vegetarian
   meat_label: Meat
   spicy_label: Spicy
   sweet_label: Sweet
