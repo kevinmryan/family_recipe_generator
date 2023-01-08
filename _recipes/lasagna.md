@@ -3,7 +3,7 @@ title: RT's Lasagna
 original_title: 
 category: Pasta
 description: Lasagna with onions and zucchini and spinage.
-image: cheesebuldak.jpg
+image: lasagna.jpeg
 size: 9-12 servings
 time: 1.5 hours
 author: Rebecca Taylor
