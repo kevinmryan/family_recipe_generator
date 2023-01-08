@@ -52,7 +52,8 @@ vegetarian: ✓
 * `4-5` zucchini (or roasted eggplant)
 
 > Slice up zucchini (or eggplant) and broil it in a flat pan in the oven in olive oil until it gets slightly brown on top.
->>> be careful not to let it burn.
+> 
+>>>be careful not to let it burn.
 
 ---
 
