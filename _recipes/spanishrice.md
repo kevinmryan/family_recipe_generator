@@ -7,7 +7,7 @@ image: spanishrice.jpeg
 size: 6 servings
 time: 25 minutes
 source: https://www.fivehearthome.com/easy-spanish-rice/
-nomeat: ✓
+vegetarian: ✓
 ---
 
 * `1 cup` white rice
