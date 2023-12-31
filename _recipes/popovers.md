@@ -8,6 +8,7 @@ size: 3 servings
 time: 45 minutes
 author: Bee Plant
 vegetarian: ✓
+favorite: ✓
 ---
 
 * `3` eggs, beaten
