@@ -15,7 +15,7 @@ vegetarian: ✓
 * `1 tbsp` olive oil 
 * `8 oz` sliced mushrooms (optional)
 * `3 cloves` garlic, pressed
-* `1 ½ cups` marinara suace
+* `1 ½ cups` marinara sauce
 * `½ - 1 tsp` crushed red pepper flakes
 * `3` roma tomatoes, diced
 * `3 cups` fresh spinach
@@ -50,7 +50,7 @@ vegetarian: ✓
 
 * `1 lb` penne pasta
 * `3 cloves` garlic, pressed
-* `1 ½ cups` marinara suace
+* `1 ½ cups` marinara sauce
 * `½ - 1 tsp` crushed red pepper flakes
 
 > Stir in cooked and drained penne pasta, marinara sauce, and crushed red pepper flakes.
@@ -74,4 +74,4 @@ vegetarian: ✓
 
 * `½ cup` shredded parmesan cheese
 
-> Serve hot with parmesan cheese.pee
+> Serve hot with parmesan cheese.
